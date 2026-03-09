@@ -1,0 +1,11 @@
+name = "crysnova-platform"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+[[kv_namespaces]]
+binding = "PLUGINS"
+id = "REPLACE_THIS_LATER"
+
+[vars]
+PLATFORM_NAME = "CRYSNOVA AI"
+VERSION = "2.0.0"

@@ -1,0 +1,16 @@
+{
+  "name": "crysnova-platform",
+  "version": "2.0.0",
+  "description": "CRYSNOVA AI Platform",
+  "main": "worker.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler publish"
+  },
+  "author": "CRYSNOVA",
+  "keywords": ["whatsapp", "bot", "crysnova ai", "cloudflare-workers"],
+  "license": "MIT",
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}
